@@ -1,0 +1,17 @@
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.exe
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.deps.json
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.runtimeconfig.json
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.dll
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0-windows\LibraryManagementSystem.pdb
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.Form1.resources
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.dll
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\refint\LibraryManagementSystem.dll
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.pdb
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\willi\OneDrive - Greenwich Vietnam\Documents\BTEC (IT) - ASM\7388 - Programming\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\ref\LibraryManagementSystem.dll
